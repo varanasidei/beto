@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    .titulo{color: rgb(255, 0, 238);}
+
+}
+.texto{
+    color: yellowgreen;
+    text-align: center;
+}
+
+.imagen {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
